@@ -27,14 +27,14 @@
 </ATTR_VARA>
 <VARA state="1">
 <Variables>
-<row Name="Categories" Value="" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="Categories" Value="Actions" Value1="" Value2="" Value3="" Value4=""/>
 <row Name="Company" Value="Automic Software GmbH" Value1="" Value2="" Value3="" Value4=""/>
-<row Name="Dependencies" Value="" Value1="" Value2="" Value3="" Value4=""/>
-<row Name="Description" Value="" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="Dependencies" Value="PCK.Z >= 1.0" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="Description" Value="Just a test package with default structure" Value1="" Value2="" Value3="" Value4=""/>
 <row Name="Homepage" Value="" Value1="" Value2="" Value3="" Value4=""/>
-<row Name="License" Value="" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="License" Value="Free" Value1="" Value2="" Value3="" Value4=""/>
 <row Name="Name" Value="PCK.TEST_PACKAGE" Value1="" Value2="" Value3="" Value4=""/>
-<row Name="Title" Value="NEW.PACKAGE" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="Title" Value="TEST PACKAGE" Value1="" Value2="" Value3="" Value4=""/>
 <row Name="Version" Value="0.1.0" Value1="" Value2="" Value3="" Value4=""/>
 </Variables>
 </VARA>
